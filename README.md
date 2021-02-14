@@ -28,7 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=Express)
 
-## Follow me
+## 📲 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/matveev13)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexmatveev-webdev/)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://fb.com/matveev13)
