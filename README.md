@@ -4,7 +4,7 @@
 
 ### I am creative and highly motivated fullstack developer with a wide range of skills in Web Development. 
 
-## Languages and Tools
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/morfeii/morfeii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morfeii&layout=compact" alt="morfeii's GitHub Stats" />
@@ -13,6 +13,8 @@
 <a href="https://github.com/morfeii/morfeii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=buefy&hide=stars" alt="morfeii's GitHub Stats" />
 </a>
+
+## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3)
