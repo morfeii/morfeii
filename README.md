@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/morfeii/morfeii/blob/main/assets/banner.jpg)](https://github.com/morfeii)
 
-## About
+## I am creative and highly motivated fullstack developer with a wide range of skills in Web Development. 
 
 ## Languages and Tools
 
