@@ -5,14 +5,10 @@
 ### I am creative and highly motivated fullstack developer with a wide range of skills in Web Development. 
 
 ## Languages and Tools
-<div style="display: flex; justify-content: space-between;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morfeii&layout=compact)
 
 ![morfeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=buefy)
-
-</div>
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3)
@@ -31,6 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexmatveev-webdev/)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://fb.com/matveev13)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matveev.13/)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)](mailto:aleks.matvieiev@gmail.com)
 
 
 <!-- ![morfeii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morfeii&layout=compact) -->
