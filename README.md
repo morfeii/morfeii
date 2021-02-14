@@ -5,8 +5,13 @@
 ### I am creative and highly motivated fullstack developer with a wide range of skills in Web Development. 
 
 ## Languages and Tools
+<div style="display: flex; justify-content: space-between;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morfeii&layout=compact)
+
+![morfeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=buefy)
+
+</div>
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5)
@@ -27,7 +32,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://fb.com/matveev13)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matveev.13/)
 
-![morfeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=tokyonight)
 
 <!-- ![morfeii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morfeii&layout=compact) -->
 
