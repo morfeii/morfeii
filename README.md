@@ -6,9 +6,13 @@
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morfeii&layout=compact)
+<a href="https://github.com/morfeii/morfeii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morfeii&layout=compact" alt="morfeii's GitHub Stats" />
+</a>
 
-![morfeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=buefy)
+<a href="https://github.com/morfeii/morfeii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=morfeii&count_private=true&show_icons=true&theme=buefy&hide=stars" alt="morfeii's GitHub Stats" />
+</a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3)
