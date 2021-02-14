@@ -7,21 +7,22 @@
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-green?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-green?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-informational?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-green?style=for-the-badge&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=vue.js)
-![Next](https://img.shields.io/badge/-Next-informational?style=for-the-badge&logo=Next.js)
+![Next](https://img.shields.io/badge/-Next-green?style=for-the-badge&logo=Next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=Express)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/matveev13)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://t.me/matveev13)
-[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://t.me/matveev13)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://t.me/matveev13)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexmatveev-webdev/)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://fb.com/matveev13)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matveev.13/)
 
 
 <!--
