@@ -35,7 +35,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matveev.13/)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)](mailto:aleks.matvieiev@gmail.com)
 
-
+## 📻 Now playing on <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" />
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xzgoavxysxsmcrvjnksvmafhbm&cover_image=true&theme=novatorem)
 <!-- ![morfeii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morfeii&layout=compact) -->
 
 
