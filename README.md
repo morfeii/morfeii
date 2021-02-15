@@ -33,6 +33,7 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-informational?style=for-the-badge&logo=Mocha)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=Postman)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-informational?style=for-the-badge&logo=WebStorm)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-informational?style=for-the-badge&logo=Visual-Studio-Code)
 
 ## 📲 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/matveev13)
