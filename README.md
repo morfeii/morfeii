@@ -1,7 +1,7 @@
 [![Header](https://github.com/morfeii/morfeii/blob/main/assets/banner.jpg)](https://github.com/morfeii)
 ## Hi there 👋
 
-### I am Aleks, fullstack developer from Kyiv, Ukraine <img src="https://image.flaticon.com/icons/svg/303/303218.svg" width="14"/>  I love functional programming👾, travelling🏕, music🎧 and my cat😼
+### I am Aleks, fullstack developer from Kyiv, Ukraine <img src="https://image.flaticon.com/icons/svg/303/303218.svg" width="14"/>. I love functional programming👾, travelling🏕, music🎧 and my cat😼
 ### I am creative and highly motivated fullstack developer with a wide range of skills in Web Development. 
 
 ## &#x1f4c8; GitHub Stats
