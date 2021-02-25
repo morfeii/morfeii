@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ### I am Aleks, fullstack developer from Kyiv, Ukraine <img src="https://image.flaticon.com/icons/svg/303/303218.svg" width="16"/> 
-### I love functional programming 👾, travelling 🏕, music 🎧 and my cat 😼
+### I love functional programming 👾, travelling 🏕, music 🎧, lomography 📸 and my cat 😼
 
 
 ## &#x1f4c8; GitHub Stats
@@ -41,6 +41,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://fb.com/matveev13)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matveev.13/)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)](mailto:aleks.matvieiev@gmail.com)
+[![Skype](https://img.shields.io/badge/-Skype-black?style=for-the-badge&logo=Skype)](live:.cid.67a497f6ab422701)
 
 ## 📻 Now playing on <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" />
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xzgoavxysxsmcrvjnksvmafhbm&cover_image=true&theme=novatorem)
